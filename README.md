@@ -1797,7 +1797,4 @@
 
 ---
 
-### 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=bu/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Da
 
