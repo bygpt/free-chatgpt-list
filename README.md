@@ -1799,8 +1799,5 @@
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bu/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Da
 
-### 💞 Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
